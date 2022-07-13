@@ -1,0 +1,32 @@
+h4 {
+    color: red(229, 255, 0);
+    font-size: xx-large;
+}
+
+.card-body {
+    background-color: pink;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    font-size: larger;
+    border: 2px solid black;
+}
+
+
+.harga {
+    color: white(0, 255, 179);
+}
+
+.card-body:hover {
+    background-color: rgb(5, 124, 145);
+    color: rgb(255, 255, 255);
+    /* make border with shadow */
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+    font-weight: bolder;
+}
+
+hr {
+    border: 2px solid black;
+}

@@ -1,0 +1,28 @@
+
+.bg-home {
+    background-color: #C5D8A4;
+}
+
+
+.bg-img {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+
+}
+
+.foto-home {
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    margin-left: 60%;
+    margin-top: 3%;
+}
+
+.btn-success:hover{
+    background-color: rgb(248, 255, 153);
+    border: rgb(248, 255, 153);
+    color: black;
+    font-weight: bold;
+}
